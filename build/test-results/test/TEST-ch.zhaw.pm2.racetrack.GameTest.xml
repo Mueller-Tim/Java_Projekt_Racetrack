@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ch.zhaw.pm2.racetrack.GameTest" tests="17" skipped="0" failures="0" errors="0" timestamp="2023-03-24T16:51:42" hostname="DESKTOP-HAFPO39" time="0.148">
+  <properties/>
+  <testcase name="getWinnerOverFinishLine()" classname="ch.zhaw.pm2.racetrack.GameTest" time="0.05"/>
+  <testcase name="calculatePathSamePosition()" classname="ch.zhaw.pm2.racetrack.GameTest" time="0.007"/>
+  <testcase name="calculatePathDiagonal()" classname="ch.zhaw.pm2.racetrack.GameTest" time="0.005"/>
+  <testcase name="getNoWinner()" classname="ch.zhaw.pm2.racetrack.GameTest" time="0.005"/>
+  <testcase name="switchToNextActiveCar()" classname="ch.zhaw.pm2.racetrack.GameTest" time="0.006"/>
+  <testcase name="checkForMovingCarsUserMoveStrategy()" classname="ch.zhaw.pm2.racetrack.GameTest" time="0.005"/>
+  <testcase name="getWinnerLastCar()" classname="ch.zhaw.pm2.racetrack.GameTest" time="0.003"/>
+  <testcase name="checkForMovingCarsOneCrashed()" classname="ch.zhaw.pm2.racetrack.GameTest" time="0.003"/>
+  <testcase name="calculatePathReverseOrder()" classname="ch.zhaw.pm2.racetrack.GameTest" time="0.004"/>
+  <testcase name="switchingToNextCar()" classname="ch.zhaw.pm2.racetrack.GameTest" time="0.005"/>
+  <testcase name="calculatePathVertical()" classname="ch.zhaw.pm2.racetrack.GameTest" time="0.004"/>
+  <testcase name="checkForMovingCarsAllCrashed()" classname="ch.zhaw.pm2.racetrack.GameTest" time="0.005"/>
+  <testcase name="checkForMovingCarsDoNotMoveStrategy()" classname="ch.zhaw.pm2.racetrack.GameTest" time="0.003"/>
+  <testcase name="testCrashDetection()" classname="ch.zhaw.pm2.racetrack.GameTest" time="0.004"/>
+  <testcase name="calculatePathHorizontal()" classname="ch.zhaw.pm2.racetrack.GameTest" time="0.004"/>
+  <testcase name="doCarTurn()" classname="ch.zhaw.pm2.racetrack.GameTest" time="0.004"/>
+  <testcase name="getCarCount()" classname="ch.zhaw.pm2.racetrack.GameTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

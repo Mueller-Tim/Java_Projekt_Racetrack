@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ch.zhaw.pm2.racetrack.strategy.DoNotMoveStrategyTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-24T10:13:34" hostname="DESKTOP-HAFPO39" time="0.0">
+  <properties/>
+  <testcase name="nextMove()" classname="ch.zhaw.pm2.racetrack.strategy.DoNotMoveStrategyTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

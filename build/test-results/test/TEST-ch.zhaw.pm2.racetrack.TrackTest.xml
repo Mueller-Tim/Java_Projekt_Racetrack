@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ch.zhaw.pm2.racetrack.TrackTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2023-03-24T10:13:34" hostname="DESKTOP-HAFPO39" time="0.053">
+  <properties/>
+  <testcase name="testCorrectHeightSetting()" classname="ch.zhaw.pm2.racetrack.TrackTest" time="0.002"/>
+  <testcase name="TrackNoFinishLine()" classname="ch.zhaw.pm2.racetrack.TrackTest" time="0.006"/>
+  <testcase name="TrackNoFile()" classname="ch.zhaw.pm2.racetrack.TrackTest" time="0.003"/>
+  <testcase name="TrackOneCar()" classname="ch.zhaw.pm2.racetrack.TrackTest" time="0.004"/>
+  <testcase name="testCorrectCarIndex()" classname="ch.zhaw.pm2.racetrack.TrackTest" time="0.002"/>
+  <testcase name="TrackZeroCars()" classname="ch.zhaw.pm2.racetrack.TrackTest" time="0.004"/>
+  <testcase name="TrackMaxCars()" classname="ch.zhaw.pm2.racetrack.TrackTest" time="0.003"/>
+  <testcase name="testCorrectCharRepresentationAtPosition()" classname="ch.zhaw.pm2.racetrack.TrackTest" time="0.001"/>
+  <testcase name="TrackInConsistentLength()" classname="ch.zhaw.pm2.racetrack.TrackTest" time="0.003"/>
+  <testcase name="testCorrectWidthSetting()" classname="ch.zhaw.pm2.racetrack.TrackTest" time="0.002"/>
+  <testcase name="TrackNoLines()" classname="ch.zhaw.pm2.racetrack.TrackTest" time="0.003"/>
+  <testcase name="TrackTooManyCars()" classname="ch.zhaw.pm2.racetrack.TrackTest" time="0.003"/>
+  <testcase name="testCorrectFieldRepresentation()" classname="ch.zhaw.pm2.racetrack.TrackTest" time="0.007"/>
+  <testcase name="testGetSpaceTypeAtPosition()" classname="ch.zhaw.pm2.racetrack.TrackTest" time="0.001"/>
+  <testcase name="testCarRecognition()" classname="ch.zhaw.pm2.racetrack.TrackTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

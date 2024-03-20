@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ch.zhaw.pm2.racetrack.strategy.MoveListStrategyTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-03-24T10:13:34" hostname="DESKTOP-HAFPO39" time="0.007">
+  <properties/>
+  <testcase name="nextMoveInfiniteDirection()" classname="ch.zhaw.pm2.racetrack.strategy.MoveListStrategyTest" time="0.001"/>
+  <testcase name="MoveListStrategy()" classname="ch.zhaw.pm2.racetrack.strategy.MoveListStrategyTest" time="0.001"/>
+  <testcase name="nextMoveFirstDirection()" classname="ch.zhaw.pm2.racetrack.strategy.MoveListStrategyTest" time="0.001"/>
+  <testcase name="MoveListStrategyNoFile()" classname="ch.zhaw.pm2.racetrack.strategy.MoveListStrategyTest" time="0.001"/>
+  <testcase name="MoveListStrategyInvalidFormat()" classname="ch.zhaw.pm2.racetrack.strategy.MoveListStrategyTest" time="0.001"/>
+  <testcase name="nextMoveLastDirection()" classname="ch.zhaw.pm2.racetrack.strategy.MoveListStrategyTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
